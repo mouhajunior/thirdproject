@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(246, 242, 235);
+}
+
+h3{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 1%;
+    margin-bottom: 4%;
+    
+}
+
+.col-3{
+    text-align: center;
+}
+
+i{
+    color: #907575;
+    margin-bottom: 1%;
+    font-size: 200%;
+}
+
+h6{
+    margin-top: 3%;
+    font-weight: bold;
+    margin-bottom: 3%;
+}
+
+h4{
+    margin-top: 5%;
+    font-weight: bold;
+    margin-left: 1%;
+}
+
+input{
+    margin: 1%;
+    border: none;
+    font-size: large;
+    width: 80%;
+    height: 11%;
+}
+
+textarea{
+    border: none;
+    margin: 1%;
+}
+
+
+button{
+    font-size: large;
+    margin-left: 1%;
+}
+
+
+
+
+.col-6{
+    margin-bottom: 4%;
+}
